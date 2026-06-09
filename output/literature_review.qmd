@@ -235,3 +235,5 @@ Based on the identified gaps, future research should focus on:
 
 ::: {#refs}
 :::
+
+<!-- trigger -->
